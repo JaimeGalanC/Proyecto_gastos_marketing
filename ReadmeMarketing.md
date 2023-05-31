@@ -1,0 +1,4 @@
+# Descripción del proyecto  
+En este proyecto vamos a elaborar un estudio de las condiciones de marketing en una empresa que ayuda a los usuarios a encontrar y comprar billetes para eventos como proyecciones de películas, exhibiciones, conciertos, etcétera. Analizaremos las métricas de negocio de la aplicación. El objetivo será ayudar a los expertos en marketing de la empresa a realizar inversiones efectivas en marketing.
+
+En este proyecto tenemos la oportunidad de crear métricas de marketing, gráficos de embudo y distribucón a lo largo del tiempo. Creamos Heatmap para mostrar las métricas obtenidas para cada cohorte y tipo de fuente. Calculamos CAT, LTV y ROMI.
